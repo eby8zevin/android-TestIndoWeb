@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IndoWeb</string>
+    <string name="q_1">Soal 1</string>
+    <string name="q_2">Soal 2</string>
+    <string name="q_3">Soal 3</string>
+    <string name="q_4">Soal 4</string>
+
+    <string name="palindrome">Palindrome</string>
+    <string name="not_palindrome">NOT Palindrome</string>
+    <string name="type_your_word_here">type your word here. . .</string>
+    <string name="check_palindrome">check palindrome</string>
+
+    <string name="reference">to Reference</string>
+</resources>
